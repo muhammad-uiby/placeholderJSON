@@ -1,0 +1,154 @@
+ {
+   "admins": [
+        {
+            "id": 1,
+            "fullname": "John Doe",
+            "username": "jdoe",
+            "email": "jdoe@example.com",
+            "phonenumber": "1234567890",
+            "role": "Admin",
+            "lastlogindate": "2024-11-01",
+            "dateadded": "2024-10-01"
+        },
+        {
+            "id": 2,
+            "fullname": "Jane Smith",
+            "username": "jsmith",
+            "email": "jsmith@example.com",
+            "phonenumber": "9876543210",
+            "role": "Editor",
+            "lastlogindate": "2024-11-15",
+            "dateadded": "2024-10-15"
+        },
+        {
+            "id": 3,
+            "fullname": "Mike Johnson",
+            "username": "mjohnson",
+            "email": "mike.johnson@example.com",
+            "phonenumber": "3216549870",
+            "role": "Viewer",
+            "lastlogindate": "2024-11-18",
+            "dateadded": "2024-09-21"
+        },
+        {
+            "id": 4,
+            "fullname": "Emily Davis",
+            "username": "edavis",
+            "email": "emily.davis@example.com",
+            "phonenumber": "4567891230",
+            "role": "Admin",
+            "lastlogindate": "2024-10-25",
+            "dateadded": "2024-09-15"
+        },
+        {
+            "id": 5,
+            "fullname": "Chris Brown",
+            "username": "cbrown",
+            "email": "chris.brown@example.com",
+            "phonenumber": "9873216540",
+            "role": "Editor",
+            "lastlogindate": "2024-11-20",
+            "dateadded": "2024-08-10"
+        },
+        {
+            "id": 6,
+            "fullname": "Sarah Wilson",
+            "username": "swilson",
+            "email": "sarah.wilson@example.com",
+            "phonenumber": "6549873210",
+            "role": "Viewer",
+            "lastlogindate": "2024-11-19",
+            "dateadded": "2024-07-12"
+        },
+        {
+            "id": 7,
+            "fullname": "David Miller",
+            "username": "dmiller",
+            "email": "david.miller@example.com",
+            "phonenumber": "1597534862",
+            "role": "Admin",
+            "lastlogindate": "2024-11-11",
+            "dateadded": "2024-10-05"
+        },
+        {
+            "id": 8,
+            "fullname": "Sophia Anderson",
+            "username": "sanderson",
+            "email": "sophia.anderson@example.com",
+            "phonenumber": "8527419630",
+            "role": "Editor",
+            "lastlogindate": "2024-10-30",
+            "dateadded": "2024-06-18"
+        },
+        {
+            "id": 9,
+            "fullname": "Daniel Moore",
+            "username": "dmoore",
+            "email": "daniel.moore@example.com",
+            "phonenumber": "7531594860",
+            "role": "Viewer",
+            "lastlogindate": "2024-11-14",
+            "dateadded": "2024-08-24"
+        },
+        {
+            "id": 10,
+            "fullname": "Olivia Taylor",
+            "username": "otaylor",
+            "email": "olivia.taylor@example.com",
+            "phonenumber": "4563217890",
+            "role": "Admin",
+            "lastlogindate": "2024-11-13",
+            "dateadded": "2024-05-25"
+        },
+        {
+            "id": 11,
+            "fullname": "Lucas White",
+            "username": "lwhite",
+            "email": "lucas.white@example.com",
+            "phonenumber": "9874561230",
+            "role": "Editor",
+            "lastlogindate": "2024-11-12",
+            "dateadded": "2024-04-15"
+        },
+        {
+            "id": 12,
+            "fullname": "Isabella Harris",
+            "username": "iharris",
+            "email": "isabella.harris@example.com",
+            "phonenumber": "3217896540",
+            "role": "Viewer",
+            "lastlogindate": "2024-11-10",
+            "dateadded": "2024-03-30"
+        },
+        {
+            "id": 13,
+            "fullname": "James Clark",
+            "username": "jclark",
+            "email": "james.clark@example.com",
+            "phonenumber": "1236547890",
+            "role": "Admin",
+            "lastlogindate": "2024-11-09",
+            "dateadded": "2024-05-01"
+        },
+        {
+            "id": 14,
+            "fullname": "Mia Walker",
+            "username": "mwalker",
+            "email": "mia.walker@example.com",
+            "phonenumber": "4561237890",
+            "role": "Editor",
+            "lastlogindate": "2024-11-08",
+            "dateadded": "2024-06-15"
+        },
+        {
+            "id": 15,
+            "fullname": "Ethan Hall",
+            "username": "ehall",
+            "email": "ethan.hall@example.com",
+            "phonenumber": "7896541230",
+            "role": "Viewer",
+            "lastlogindate": "2024-11-07",
+            "dateadded": "2024-04-10"
+        }
+    ]
+ }
